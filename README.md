@@ -2,7 +2,7 @@
 This is a NoteApp built using HTML,CSS,JavaScript and using Firebase as Realtime Database,you could now save and access your notes on the go anywhere and anytime. It includes an online editor which have several tools like *bold, italic, font-size, font-weight, color etc.*
 
 ## View Live App
-Hosted app at  ** https://souravgupta0401.github.io/The-Notes-App/**
+Hosted app at https://nkjrock.github.io/NotesApp/
 
 ## Tech Stack Used
 
